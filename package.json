@@ -1,0 +1,28 @@
+{
+  "name": "kooaba-cadabra",
+  "version": "0.0.1",
+  "description": "Node client for Kooaba's Query API v4",
+  "main": "./lib/kooaba-client.js",
+  "devDependencies": {
+        "node-uuid":"1.4.x"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "kooaba",
+    "query-api v4"
+  ],
+  "author": "neurofen",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": ""
+  }
+}
